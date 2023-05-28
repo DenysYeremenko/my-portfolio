@@ -1,7 +1,7 @@
 {
-  "name": "3DPortfolio",
+  "name": "portfolio",
   "private": true,
-  "homepage": "https://DenysYeremenko.github.io/3DPortfolio/",
+  "homepage": "https://DenysYeremenko.github.io/portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
