@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "my-portfolio",
   "private": true,
-  "homepage": "https://DenysYeremenko.github.io/portfolio/",
+  "homepage": "https://DenysYeremenko.github.io/my-portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
