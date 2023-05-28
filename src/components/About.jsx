@@ -7,6 +7,7 @@ import { services } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
 import { SectionWrapper } from "../hoc";
 
+// eslint-disable-next-line react-refresh/only-export-components
 const ServiceCard = ({ index, title, icon }) => {
   return (
     <Tilt className="xs:w-[250px]">
