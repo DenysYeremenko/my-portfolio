@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unknown-property */
 import { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
-import { OrbitControls, useGLTF } from "@react-three/drei";
+import { OrbitControls, useGLTF, Preload } from "@react-three/drei";
 import CanvasLoader from "../Loader";
 import { useState, useEffect } from "react";
 
@@ -65,6 +65,7 @@ const ComputersCanvas = () => {
         />
         <Computers isMobile={isMobile} />
       </Suspense>
+      <Preload all />
     </Canvas>
   );
 };
