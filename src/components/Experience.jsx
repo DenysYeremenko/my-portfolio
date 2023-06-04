@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {
   VerticalTimeline,
   VerticalTimelineElement,
@@ -52,3 +53,14 @@ const Experience = () => {
 };
 
 export default SectionWrapper(Experience, "work");
+=======
+import React from 'react'
+
+const Experience = () => {
+  return (
+    <div>Experience</div>
+  )
+}
+
+export default Experience
+>>>>>>> 779da8596ae4576cb5767f95d94c9763f751c021
