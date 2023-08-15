@@ -28,7 +28,7 @@ const About = () => {
         to challenging projects and collaborate with a dynamic team. Let&apos;s
         create amazing experiences together!
       </motion.p>
-      <div className="mt-20 flex flex-wrap gap-10">
+      <div className="flex flex-wrap justify-center gap-10 mt-20">
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}

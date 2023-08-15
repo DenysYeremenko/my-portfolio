@@ -1,30 +1,34 @@
 import logo from "./logo.svg";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
-import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
-import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+import css from "./tech/css.svg";
+import figma from "./tech/figma.svg";
+import git from "./tech/git.svg";
+import html from "./tech/html.svg";
+import javascript from "./tech/javascript.svg";
+import nodejs from "./tech/nodejs.svg";
+import reactjs from "./tech/reactjs.svg";
+import redux from "./tech/redux.svg";
+import tailwind from "./tech/tailwind.svg";
+import typescript from "./tech/typescript.svg";
 import threejs from "./tech/threejs.svg";
+import vue from "./tech/vue.svg";
+import webpack from "./tech/webpack.svg";
+import vuex from "./tech/vuex.svg";
+import sass from "./tech/sass.svg";
+import nuxt from "./tech/nuxt.svg";
+import next from "./tech/next.svg";
+import github from "./tech/github.svg";
+import babel from "./tech/babel.svg";
+import axios from "./tech/axios.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+
+
+import goit from "./company/goit.png"
+import freelance from "./company/freelance.png"
+import pvls from "./company/pvls.png"
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -32,31 +36,32 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
-  backend,
-  creator,
-  mobile,
-  web,
   github,
   menu,
   close,
   css,
-  docker,
   figma,
   git,
   html,
   javascript,
-  mongodb,
   nodejs,
   reactjs,
   redux,
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  vue,
   carrent,
   jobit,
   tripguide,
+  goit,
+  freelance,
+  pvls,
+  webpack,
+vuex,
+sass,
+nuxt,
+next,
+babel,
+axios,
 };
